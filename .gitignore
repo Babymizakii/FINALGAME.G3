@@ -1,0 +1,78 @@
+# ===================================
+# Unity 2021 .gitignore
+# ===================================
+
+# === Unity generated folders ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# === OS generated files ===
+.DS_Store
+Thumbs.db
+
+# === IDE / Code editor ===
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# === Crash and temporary files ===
+*.stackdump
+*.bak
+*.backup
+*.tmp
+*.old
+*.orig
+
+# === Unity cache / auto-generated ===
+sysinfo.txt
+*.apk
+*.aab
+*.obb
+*.unitypackage
+
+# === Build Artifacts ===
+Build/
+Builds/
+ExportedObj/
+*.manifest
+*.symbols
+
+# === Asset Store tools ===
+Assets/AssetStoreTools*
+
+# === Visual Studio cache ===
+.vs/
+*.pdb
+
+# === Rider IDE cache ===
+.idea/
+*.sln.iml
+
+# === Local Environment ===
+*.local
+*.swp
+*.log
+
+# === Ignore git-related files ===
+.gitignore
+.gitattributes
+
+# === Personal notes or configs ===
+*.txt
+*.md
+!README.md
